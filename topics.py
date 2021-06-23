@@ -3,7 +3,10 @@ agile = {
         "What are the SCRUM events?",
         "Sprint Planning (Product Backlog, Sprint goal progress, Sprint Backlog)\nDaily Scrum (Sprint Backlog, Daily plan)\nSprint Review (Product backlog, Product increment)\nSprint Retrospective (Definition of Done, Improvements, Team Collaboration)",
     ],
-    2: ["What are the scrum artifacts?", "A"],
+    2: [
+        "What are the scrum artifacts?",
+        "Product backlog\nSprint backlog\nProdcut increment\nThe definition of done",
+    ],
     3: [
         "What is your understanding of Agile delivery? What are the benefits and drawbacks?"
     ],
